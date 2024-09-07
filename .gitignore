@@ -1,0 +1,5 @@
+# ignorar el entorno virtual
+.venv
+
+# ignorar las credenciales de google
+ServiceAccountCredentials.json
